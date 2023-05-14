@@ -62,9 +62,7 @@ The project is for the people who wanna get more skilled in `ReactJs`.
 
 ---
 
-## Feedback
 
-If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
 
 Happy Coding! 🚀
 
